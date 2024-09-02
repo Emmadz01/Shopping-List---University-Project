@@ -1,0 +1,36 @@
+﻿  Cart_Implementation.cpp
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstdlib(56,25): error C2039: 'rand': is not a member of '`global namespace''
+  (compiling source file 'Cart_Implementation.cpp')
+  
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstdlib(56,13): error C2873: 'rand': symbol cannot be used in a using-declaration
+  (compiling source file 'Cart_Implementation.cpp')
+  
+  Cart_Product_Implementation.cpp
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstdlib(56,25): error C2039: 'rand': is not a member of '`global namespace''
+  (compiling source file 'Cart_Product_Implementation.cpp')
+  
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstdlib(56,13): error C2873: 'rand': symbol cannot be used in a using-declaration
+  (compiling source file 'Cart_Product_Implementation.cpp')
+  
+  List_Implementation.cpp
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstdlib(56,25): error C2039: 'rand': is not a member of '`global namespace''
+  (compiling source file 'List_Implementation.cpp')
+  
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstdlib(56,13): error C2873: 'rand': symbol cannot be used in a using-declaration
+  (compiling source file 'List_Implementation.cpp')
+  
+  Product.cpp
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstdlib(56,25): error C2039: 'rand': is not a member of '`global namespace''
+  (compiling source file 'Product.cpp')
+  
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstdlib(56,13): error C2873: 'rand': symbol cannot be used in a using-declaration
+  (compiling source file 'Product.cpp')
+  
+  Shopping List (Main).cpp
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstdlib(56,25): error C2039: 'rand': is not a member of '`global namespace''
+  (compiling source file 'Shopping%20List%20(Main).cpp')
+  
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstdlib(56,13): error C2873: 'rand': symbol cannot be used in a using-declaration
+  (compiling source file 'Shopping%20List%20(Main).cpp')
+  
+  Generating Code...
